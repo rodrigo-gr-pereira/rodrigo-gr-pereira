@@ -2,7 +2,7 @@
 Tecnico em Tecomunicações IAT - Claro Brasil<br/>Graduado em Sistema de Informação - Estácio de Sá. Atualmente estudando cursos livres na área de TI (Softwares, linguagens, frameworks e bibliotecas), por ai vai!  
 
 -💻 **Técnico IAT** em [Claro Brasil](https://www.claro.com.br/).<br/>
--🎓 **Técnico em Telecomunicações[IFPA](https://www.ifpa.edu.br/).<br/>
+-🎓 **Técnico em Telecomunicações** em [IFPA](https://www.ifpa.edu.br/).<br/>
 -🎓 **Bacharel em Sistema de Informação** em [Universidade Estacio de Sá](https://estacio.br/).<br/>
 -🖥️ Apaixonado por **Tecnologia.**<br/>
 -🖥️ Atualmente focado em:<br/>
