@@ -1,5 +1,5 @@
 ### Olá pessoal,aqui é o Rodrigo👋
-Tecnico em Tecomunicações IAT - Claro Brasil<br/>Graduado em Sistema de Informação - Estácio de Sá. Atualmente estudando cursos livres na área de TI (Softwares, linguagens, frameworks e bibliotecas), por ai vai!  
+Tecnico em Tecomunicações IAT - Claro Brasil<br/>Graduado em Sistema de Informação - Estácio de Sá.<br/> Atualmente estudando cursos livres na área de TI (Softwares, linguagens, frameworks e bibliotecas), por ai vai!  
 
 -💻 **Técnico IAT** em [Claro Brasil](https://www.claro.com.br/).<br/>
 -🎓 **Técnico em Telecomunicações** em [IFPA](https://www.ifpa.edu.br/).<br/>
